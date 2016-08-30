@@ -55,7 +55,7 @@ void setup(void)
   pinMode(BUTTON, INPUT);
   digitalWrite(relayPin2, HIGH);
 
-  // Initialise the module
+  // Initialize the module
   if (!cc3000.begin())
   {
     Serial.println(F("Couldn't begin()! Check your wiring?"));
