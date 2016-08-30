@@ -36,7 +36,7 @@ int elapsedTime = 0;
 // Client JSON String
 String result;
 
-// Realy IN2 connected to digital pin 0
+// Relay IN2 connected to digital pin 0
 int relayPin2 = 6;
 int BUTTON = 7;
 
