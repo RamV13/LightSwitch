@@ -23,5 +23,3 @@
 1. Replace the lines with `<SSID>` and `<PASSWORD>` with your LAN information.
 2. Load the code onto the Arduino UNO using the USB cable and the Arduino IDE
 3. Send an HTTP POST request with a payload containing the keyword `switch` (see [lightswitch.sh](https://github.com/RamV13/LightSwitch/blob/master/lightswitch.sh) for reference)
-
-[See this image for reference](http://ramvellanki.com/img/projects/lightswitch.jpg)
